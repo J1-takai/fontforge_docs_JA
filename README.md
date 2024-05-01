@@ -15,6 +15,8 @@ Table of Contents
 + チュートリアル　Tutorial — a basic tutorial
 
 ## Book 3
-+ ユーザー・インターフェース・ガイド　User Interface — guide FontForge’s user interface
+『ユーザー・インターフェース・ガイド』は大部のため、Book 3a と Book 3b の二部構成になっています。
++ User Interface guide in two halves.
++ Book 3a: ユーザー・インターフェース 上〔メイン画面、メニュー項目〕　"Main Views" & "Menus" from FontForge’s User Interface guide
 
 以下、順次刊行予定・・・
